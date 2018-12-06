@@ -9,6 +9,7 @@ import java.time.LocalDateTime;
 public class Event {
     private String name;
     private String description;
+
     private LocalDateTime beginEnrollmentDateTime;
     private LocalDateTime closeEnrollmentDateTime;
     private LocalDateTime beginEventDateTime;
